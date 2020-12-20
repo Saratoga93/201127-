@@ -11,3 +11,16 @@ D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
 D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Debug\Kiosk.Home.resources
 D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Debug\Kiosk.Second.resources
 D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Debug\Kiosk.FishchipsControl.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.csprojAssemblyReference.cache
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.FishchipsControl.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.Form1.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.Home.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.Properties.Resources.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.Second.resources
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.GenerateResource.cache
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+D:\Many Things\Saratoga93\Homework\12월 14일 기한 과제\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
